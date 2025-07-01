@@ -30,6 +30,8 @@ Pipeline dibagi menjadi beberapa layer:
 - **Storage Layer**: DuckDB (Star Schema)
 - **Analytics & Visualization**: Apache Superset via Docker
 
+## Architecture Diagram
+
 ![Architecture](docs/architecture_pipeline.png)
 
 ## Alur Implementasi
