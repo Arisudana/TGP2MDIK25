@@ -32,7 +32,7 @@ Pipeline dibagi menjadi beberapa layer:
 
 ## Architecture Diagram
 
-![Architecture](docs/architecture_pipeline.png)
+![Architecture Pipeline](Architecture_Pipeline.png)
 
 ## Alur Implementasi
 
